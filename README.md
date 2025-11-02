@@ -169,7 +169,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 
 For questions or dataset requests, please open an issue or reach out:
 
-* **Sushant Poudel** — [your.email@example.com](mailto:your.email@example.com)
+* **Sushant Poudel** — [sushantpoudel50@gmail.com]
 
 ---
 
